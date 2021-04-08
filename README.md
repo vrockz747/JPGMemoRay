@@ -1,4 +1,4 @@
-# recover
+### recover
 What does this program do?
 It recovers lost or deleted jpegs from the memory card of digital cameras.
 
@@ -12,4 +12,7 @@ example: if the name of the file is file.raw and its located in the same directo
 ./recover file.raw
 for testing purpose a card.raw file is provided with the code.
 
+Contribution:-
+Contributions are always welcome.
+If you want to contribute to this project, just start a PR, I will look into it winth-in a few days.
 
