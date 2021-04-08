@@ -1,6 +1,7 @@
 <h1> recover</h1> <br>
 What does this program do?<br>
-It recovers lost or deleted jpegs from the memory card of digital cameras.<br>
+It recovers lost or deleted jpegs from the memory card of digital cameras.
+<br>
 
 How does this program work?<br>
 Many modern-day digital cameras store their images in .raw format and fortunately, digital cameras tend to store photographs contiguously on memory cards, whereby each photo is stored immediately after the previously taken photo.<br>
